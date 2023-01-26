@@ -1,0 +1,6 @@
+Hayvan classından türettiğimiz-extend yaptığımız için
+hayvanSesi olarak eklediğimiz methoddan yazdırdığımızda da
+köpek ve kedi için classlarında Override yaparak yazdığımız
+özellikleri alarak yazdı.
+Ama tırmaladı , kokladı gibi kedi, köpek classına özel olarak
+yazdıklarımızı hayvanSesi methodunda yazdıramayız.
